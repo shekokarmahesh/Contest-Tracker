@@ -4,7 +4,8 @@ A MERN stack application to keep track of upcoming and past programming contests
 ## 🎥 Demo Video  
 [![Watch the Demo](https://img.youtube.com/vi/E4B-m1-_ELM/0.jpg)](https://www.youtube.com/watch?v=E4B-m1-_ELM)  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E4B-m1-_ELM" frameborder="0" allowfullscreen></iframe>
+Click on the image to watch the demo video.
+
 
 
 ## 🚀 Overview
