@@ -1,7 +1,11 @@
 # Contest Tracker
+A MERN stack application to keep track of upcoming and past programming contests.
 
-## 🎥 Demo Video
-[![Watch the Demo]](https://youtu.be/E4B-m1-_ELM)
+## 🎥 Demo Video  
+[![Watch the Demo](https://img.youtube.com/vi/E4B-m1-_ELM/0.jpg)](https://www.youtube.com/watch?v=E4B-m1-_ELM)  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E4B-m1-_ELM" frameborder="0" allowfullscreen></iframe>
+
 
 ## 🚀 Overview
 The **Contest Tracker** is a MERN stack application that allows users to keep track of upcoming and past programming contests from popular platforms like Codeforces, CodeChef, and LeetCode. It also includes features like bookmarking contests, filtering by platform, and adding solution links for past contests.
